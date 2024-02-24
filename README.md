@@ -39,6 +39,7 @@ An RGBD camera is a type of depth camera that provides both depth (D) and color 
 
 ### Limit Switches
 Limit switches are used to create home configuration for our robotic arm. When one link touches the limit switches that is installed in a predefined position, a signal will be sent to interrupt the action of the stepper motors and stop them. This is essential to have a reference or initial position of the arm. The reference is selected to derive the equation of motion for the arm. Limit switches are considered as electrical stoppers. Future work should include mechanical stoppers for additional safety purposes. The figure below shows the connection of a micro limit switch with a pull-down resistor.
+
 ![image](https://github.com/adnanO999/PARATEC/assets/88556508/b41f11ed-e412-4946-bd1d-ed9b99c3b717)
 
   
