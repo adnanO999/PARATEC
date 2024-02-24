@@ -13,8 +13,8 @@ The main focus of the section is to describe the heart of our project that is th
 
 ## Solidworks Design
 Robotic manipulators are usually built of an assembly of joints and links. Joints can be represented as connection between two links, and by links we mean the rigid connection between two joints. Finally, the end effector or tool tip is the device which interact with the environment. After several research iterations, the model that we found was downloadable as step file which means we cannot modify the parts. In order to do so, we need to recreate the parts using a CAD software. For this reason, SolidWorks used to redraw the model according to the measured dimensions from the step file. The model can be divided into several parts:
-•	Base link and actuator
-•	Shoulder link and actuator
-•	Elbow link and actuator
-•	Wrist actuators (x3)
+*	Base link and actuator
+*	Shoulder link and actuator
+*	Elbow link and actuator
+*	Wrist actuators (x3)
 
