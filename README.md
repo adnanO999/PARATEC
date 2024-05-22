@@ -1,5 +1,5 @@
-# PARATEC
-Paralyzed Assistive Robotic Arm eye Tracking and Electric Chair
+# PARATEC: Paralyzed Assistive Robotic Arm eye Tracking and Electric Chair
+
 ![image](https://github.com/adnanO999/PARATEC/assets/88556508/8c00c7e4-aafe-4fb6-ae3f-0927e9f0461e)
 
 # Introduction
