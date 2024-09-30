@@ -1,4 +1,17 @@
+
+
 # PARATEC: Paralyzed Assistive Robotic Arm eye Tracking and Electric Chair
+
+## Table of Content
+* Project Description
+* Robotic Arm
+  ** Solidworks Model
+  ** Assembly
+  ** Circuit Diagram
+  ** ROS Control
+* Electric Wheelchair
+* User Interface
+
 
 ![image](https://github.com/adnanO999/PARATEC/assets/88556508/8c00c7e4-aafe-4fb6-ae3f-0927e9f0461e)
 
