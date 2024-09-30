@@ -5,10 +5,10 @@
 ## Table of Content
 * Project Description
 * Robotic Arm
-  ** Solidworks Model
-  ** Assembly
-  ** Circuit Diagram
-  ** ROS Control
+  * Solidworks Model
+  * Assembly
+  * Circuit Diagram
+  *  ROS Control
 * Electric Wheelchair
 * User Interface
 
