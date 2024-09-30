@@ -20,7 +20,7 @@ We introduce “PARATEC—The Paralyzed Assistive Robotic Arm, eye-Tracking and 
 ![image](https://github.com/adnanO999/PARATEC/assets/88556508/78d190d8-aede-4c54-8919-bc35da6bbd0d)
 
 
-![image](https://github.com/adnanO999/PARATEC/assets/88556508/36d13c79-fd55-4adc-bec5-0a9f51812d5f)
+
  
 
 ### Overall Circuit Diagram
