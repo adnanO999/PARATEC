@@ -12,13 +12,17 @@
 * Electric Wheelchair
 * User Interface
 
+![WhatsApp Image 2024-09-30 at 11 07 05 (1)](https://github.com/user-attachments/assets/45b759c7-fe40-4093-b463-a96c2ad58030)
 
-![image](https://github.com/adnanO999/PARATEC/assets/88556508/8c00c7e4-aafe-4fb6-ae3f-0927e9f0461e)
 
-# Introduction
-![image](https://github.com/adnanO999/PARATEC/assets/88556508/365d5e26-3160-4d6c-8acf-1079afe8fd88)
 
-We introduce “PARATEC—The Paralyzed Assistive Robotic Arm, eye-Tracking and Electric Chair” to empower paralyzed individuals by restoring their autonomy through an integrated system. This system is fully developed from scratch and comprised of a robotic arm built using additive manufacturing (3D printing), used to achieve activities of daylily living (ADL) such as feeding process of the patient, an electric wheelchair designed from the ground up to facilitate transportation and an eye tracking system offering an innovative solution and a user-friendly interface for individuals with limited physical mobility. These parts are connected all together through a website application.
+# Project Description
+
+We introduce "PARATEC—The Paralyzed Assistive Robotic Arm, eye-Tracking and Electric Chair" to empower paralyzed individuals by restoring their autonomy through an integrated system. This system is fully developed from scratch and comprised of:
+1. a robotic arm built using 3D printing, used to achieve activities of daylily living (ADL) such as feeding the patient
+2. an electric wheelchair designed from the ground up to facilitate transportation
+3. an eye tracking system offering an innovative solution and a user-friendly interface for individuals with limited physical mobility
+4. all parts connected together through a website interface.
 
 # Robotic Arm
 ![image](https://github.com/adnanO999/PARATEC/assets/88556508/6964932d-5917-4c0f-b0ed-e71610f767ad)
